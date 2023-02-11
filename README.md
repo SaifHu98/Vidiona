@@ -82,5 +82,5 @@ HTML5
 
 --------------------------------
 
-HTML,PHP ,MySQL, CSS, Bootstrap
+HTML,PHP ,MySQL, CSS, JS, Bootstrap
 
